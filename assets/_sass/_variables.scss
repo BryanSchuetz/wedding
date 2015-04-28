@@ -1,0 +1,31 @@
+// Mixins
+
+$width-tiny: 15em; //4bits
+$width-small: 30em; //6bits
+$width-medium: 37.5em; //8bits
+$width-wide: 57em; //10bits
+
+// responsive mixin for bubbled media-querries
+
+@mixin responsive($width){
+  @if $width == tiny-screens{
+    @media screen and (min-width: $width-tiny){
+      @content;
+    }
+  }
+  @else if $width == small-screens{
+    @media screen and (min-width: $width-small){
+      @content;
+    }
+  }
+  @else if $width == medium-screens{
+    @media screen and (min-width: $width-medium){
+      @content;
+    }
+  }
+  @else if $width == wide-screens{
+    @media screen and (min-width: $width-wide){
+      @content;
+    }
+  }
+}

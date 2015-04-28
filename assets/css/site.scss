@@ -1,0 +1,100 @@
+---
+---
+@import "poole";
+@import "syntax";
+@import "lanyon";
+@import "variables";
+
+html{
+  a:hover{
+    text-decoration: none;
+  }
+  font-family: Georgia;
+}
+.church{
+  height: 52px;
+  position: relative;
+  top: 8px;
+}
+h1, h2, h3{
+  font-family: "bistro-script-web";
+}
+h1{
+  font-size: 3rem;
+  text-align: center;
+  text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+}
+
+// Flip
+
+.cardWrapper{
+  width:289px;
+  height:210px;
+  @include responsive(small-screens){
+    width: 389px;
+    height: 310px;
+  }
+  @include responsive(medium-screens){
+    width: 559px;
+    height: 479px;
+  }
+    @include responsive(wide-screens){
+    width: 689px;
+    height: 600px;
+  }
+  margin-right: auto;
+  margin-left: auto;
+  position:relative;
+  cursor:pointer;
+  -webkit-font-smoothing:antialiased;
+}
+
+.cardFace{
+  margin-right: auto;
+  margin-left: auto;
+  @include responsive(small-screens){
+    width: 389px;
+    height: 310px;
+  }
+  @include responsive(medium-screens){
+    width: 559px;
+    height: 479px;
+  }
+    @include responsive(wide-screens){
+    width: 689px;
+    height: 600px;
+  }
+  position:absolute;
+  width:289px;
+  height: 210px;
+  overflow:hidden;
+}
+
+.front{
+  background-image: url({{ baseurl}}/assets/images/front.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.back{
+  background-image: url({{ baseurl}}/assets/images/back.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+
+
+.cardFace h1{
+  margin:0px;
+  font-size:30px;
+  padding:10px 0px 10px 10px;
+  border-bottom:solid 6px #aaa;
+  border-top:solid 6px #aaa;
+  background-color:black;
+  color:white;
+}
+
+
+.cardFace.back h1{
+ border-color:#91e600;
+}

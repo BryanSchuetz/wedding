@@ -1,0 +1,27 @@
+---
+layout: default
+title: Save The Date
+---
+<div class="cardWrapper">
+  <div class="card">
+    <div class="cardFace front"></div>
+    <div class="cardFace back"></div>
+  </div>
+</div>
+
+
+<script>
+  TweenLite.set(".cardWrapper", {perspective:800});
+  TweenLite.set(".card", {transformStyle:"preserve-3d"});
+  TweenLite.set(".back", {rotationY:-180});
+  TweenLite.set([".back", ".front"], {backfaceVisibility:"hidden"});
+
+  $(".cardWrapper").hover(
+    function() {
+      TweenLite.to($(this).find(".card"), 1.2, {rotationY:180, ease:Back.easeOut});
+    },
+    function() {
+      TweenLite.to($(this).find(".card"), 1.2, {rotationY:0, ease:Back.easeOut});  
+    }
+  );
+</script>

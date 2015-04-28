@@ -1,0 +1,29 @@
+##### Using this _altconfig for local development passed via Grunt with jekyll build --config _altconfig.yml
+#### Remember when pushing to gh-pages run build directly to use the proper config file
+
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+destination:      ./build
+permalink:        pretty
+paginate:         1
+exclude:          ["README.md", ".gitignore", "Guardfile", "Rakefile", "Gemfile", "Gemfile.lock", ".DS_Store", "punchlist.md"]
+
+# Sass support via Jekyll 2.0
+sass:
+  sass_dir:     assets/_sass
+# Set baseurl for gh-pages
+baseurl: ""
+prose:
+  media:        assets/images
+  metadata:
+    _posts:
+      - name: category
+        field:
+          element: select
+          label: "Type of Post"
+          options:
+            - name: "News"
+              value: "news"
+            - name: "Story"
+              value: "story"

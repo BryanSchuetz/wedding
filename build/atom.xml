@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title></title>
- <link href="/atom.xml" rel="self"/>
- <link href="/"/>
- <updated>2015-04-28T15:55:34-04:00</updated>
+ <link href="/wedding/atom.xml" rel="self"/>
+ <link href="/wedding/"/>
+ <updated>2015-04-28T17:24:20-04:00</updated>
  <id></id>
  <author>
    <name></name>
@@ -16,7 +16,7 @@
    <title>Update</title>
    <link href="/2013/12/31/whats-jekyll/"/>
    <updated>2013-12-31T00:00:00-05:00</updated>
-   <id>/2013/12/31/whats-jekyll</id>
+   <id>/wedding/2013/12/31/whats-jekyll</id>
    <content type="html">&lt;p&gt;News update example&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi tempora reprehenderit deserunt, accusamus ea, quaerat error asperiores nihil impedit, voluptas suscipit? Excepturi quia ex debitis animi quis non voluptas enim!&lt;/p&gt;

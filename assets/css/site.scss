@@ -71,13 +71,13 @@ h1{
 }
 
 .front{
-  background-image: url({{ baseurl}}/assets/images/front.png);
+  background-image: url(../images/front.png);
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
 .back{
-  background-image: url({{ baseurl}}/assets/images/back.png);
+  background-image: url(../images/back.png);
   background-size: 100%;
   background-repeat: no-repeat;
 }

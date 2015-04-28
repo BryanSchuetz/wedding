@@ -4,21 +4,38 @@
 @import "syntax";
 @import "lanyon";
 @import "variables";
+body{
+  font-family: georgia, serif;
+  visibility: hidden;
+}
+.wf-inactive body{
+  display: block;
+  visibility: visible;
+}
+.wf-active body{
+  font-family: georgia, serif;
+  display: block;
+  visibility: visible;
+}
 
 html{
   a:hover{
     text-decoration: none;
   }
-  font-family: Georgia;
+}
+bode{
+
 }
 .church{
-  height: 52px;
+  display: inline;
   position: relative;
-  top: 8px;
+  margin-bottom: 0px;
+  height: 50px;
 }
 h1, h2, h3{
-  font-family: "bistro-script-web";
+  font-family: "bistro-script-web" !important;
 }
+
 h1{
   font-size: 3rem;
   text-align: center;
@@ -46,7 +63,6 @@ h1{
   margin-left: auto;
   position:relative;
   cursor:pointer;
-  -webkit-font-smoothing:antialiased;
 }
 
 .cardFace{

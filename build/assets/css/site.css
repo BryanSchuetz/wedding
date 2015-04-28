@@ -1113,18 +1113,30 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -0.25rem 0 0.5rem rgba(0, 0, 0, 0.1); }
 
-html {
-  font-family: Georgia; }
-  html a:hover {
-    text-decoration: none; }
+body {
+  font-family: georgia, serif;
+  visibility: hidden; }
+
+.wf-inactive body {
+  display: block;
+  visibility: visible; }
+
+.wf-active body {
+  font-family: georgia, serif;
+  display: block;
+  visibility: visible; }
+
+html a:hover {
+  text-decoration: none; }
 
 .church {
-  height: 52px;
+  display: inline;
   position: relative;
-  top: 8px; }
+  margin-bottom: 0px;
+  height: 50px; }
 
 h1, h2, h3 {
-  font-family: "bistro-script-web"; }
+  font-family: "bistro-script-web" !important; }
 
 h1 {
   font-size: 3rem;
@@ -1137,8 +1149,7 @@ h1 {
   margin-right: auto;
   margin-left: auto;
   position: relative;
-  cursor: pointer;
-  -webkit-font-smoothing: antialiased; }
+  cursor: pointer; }
   @media screen and (min-width: 30em) {
     .cardWrapper {
       width: 389px;

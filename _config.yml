@@ -11,7 +11,7 @@ exclude:          ["README.md", ".gitignore", "Guardfile", "Rakefile", "Gemfile"
 sass:
   sass_dir:     assets/_sass
 # Set baseurl for gh-pages
-baseurl:        "wedding/"
+baseurl:        "/wedding"
 prose:
   media:        assets/images
   metadata:

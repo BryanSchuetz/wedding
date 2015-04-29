@@ -1113,6 +1113,9 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -0.25rem 0 0.5rem rgba(0, 0, 0, 0.1); }
 
+.sidebar-toggle {
+  opacity: 0.8; }
+
 body {
   font-family: georgia, serif;
   visibility: hidden; }
@@ -1125,6 +1128,9 @@ body {
   font-family: georgia, serif;
   display: block;
   visibility: visible; }
+
+img {
+  margin-bottom: none; }
 
 html a:hover {
   text-decoration: none; }
@@ -1156,7 +1162,7 @@ h1 {
       height: 310px; } }
   @media screen and (min-width: 37.5em) {
     .cardWrapper {
-      width: 559px;
+      width: 459px;
       height: 479px; } }
   @media screen and (min-width: 57em) {
     .cardWrapper {
@@ -1176,7 +1182,7 @@ h1 {
       height: 310px; } }
   @media screen and (min-width: 37.5em) {
     .cardFace {
-      width: 559px;
+      width: 459px;
       height: 479px; } }
   @media screen and (min-width: 57em) {
     .cardFace {

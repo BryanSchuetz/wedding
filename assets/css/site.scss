@@ -4,6 +4,9 @@
 @import "syntax";
 @import "lanyon";
 @import "variables";
+.sidebar-toggle{
+  opacity: 0.8;
+}
 body{
   font-family: georgia, serif;
   visibility: hidden;
@@ -17,7 +20,9 @@ body{
   display: block;
   visibility: visible;
 }
-
+img{
+  margin-bottom: none;
+}
 html{
   a:hover{
     text-decoration: none;
@@ -52,7 +57,7 @@ h1{
     height: 310px;
   }
   @include responsive(medium-screens){
-    width: 559px;
+    width: 459px;
     height: 479px;
   }
     @include responsive(wide-screens){
@@ -73,7 +78,7 @@ h1{
     height: 310px;
   }
   @include responsive(medium-screens){
-    width: 559px;
+    width: 459px;
     height: 479px;
   }
     @include responsive(wide-screens){

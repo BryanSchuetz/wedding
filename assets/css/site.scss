@@ -101,6 +101,7 @@ h1{
   background-image: url(../images/back.png);
   background-size: 100%;
   background-repeat: no-repeat;
+  padding: 20px;
 }
 
 
@@ -118,4 +119,122 @@ h1{
 
 .cardFace.back h1{
  border-color:#91e600;
+}
+
+// Form
+
+.input-large{
+box-shadow: rgba(0, 0, 0, 0.0745098) 0px 1px 2px 0px inset;
+background-color: rgb(255, 255, 255);
+background-position: 100% 50%;
+background-repeat: no-repeat;
+border-bottom-color: rgb(204, 204, 204);
+border-bottom-left-radius: 3px;
+border-bottom-right-radius: 3px;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+border-left-color: rgb(204, 204, 204);
+border-left-style: solid;
+border-left-width: 1px;
+border-right-color: rgb(204, 204, 204);
+border-right-style: solid;
+border-right-width: 1px;
+border-top-color: rgb(204, 204, 204);
+border-top-left-radius: 3px;
+border-top-right-radius: 3px;
+border-top-style: solid;
+border-top-width: 1px;
+box-shadow: rgba(0, 0, 0, 0.0745098) 0px 1px 2px 0px inset;
+box-sizing: border-box;
+color: rgb(51, 51, 51);
+display: inline-block;
+font-family: Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+font-size: 16px;
+font-style: normal;
+font-variant: normal;
+font-weight: normal;
+height: 36px;
+line-height: 22px;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 0px;
+min-height: 34px;
+outline-color: rgb(51, 51, 51);
+outline-style: none;
+outline-width: 0px;
+padding-bottom: 6px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 6px;
+vertical-align: middle;
+width: 199.96875px;
+word-wrap: break-word;
+}
+.input-large{
+  padding:6px 10px;
+  font-size:16px;
+}
+.input-large:focus{
+ box-shadow: rgba(81, 167, 232, 0.498039) 0px 0px 5px 0px;
+}
+.btn-primary{
+-webkit-appearance: none;
+-webkit-user-select: none;
+text-shadow: 0 -1px 0 rgba(0,0,0,0.15);
+background-color: #60b044;
+background-image: linear-gradient(#8add6d, #60b044);
+border-color: #5ca941;
+border-bottom-color: rgb(74, 153, 62);
+border-bottom-left-radius: 3px;
+border-bottom-right-radius: 3px;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+border-left-color: rgb(74, 153, 62);
+border-left-style: solid;
+border-left-width: 1px;
+border-right-color: rgb(74, 153, 62);
+border-right-style: solid;
+border-right-width: 1px;
+border-top-color: rgb(74, 153, 62);
+border-top-left-radius: 3px;
+border-top-right-radius: 3px;
+border-top-style: solid;
+border-top-width: 1px;
+box-sizing: border-box;
+color: rgb(255, 255, 255);
+cursor: pointer;
+display: block;
+float: left;
+font-family: Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+font-size: 13px;
+font-style: normal;
+font-variant: normal;
+font-weight: bold;
+height: 34px;
+line-height: 20px;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 0px;
+overflow-x: visible;
+overflow-y: visible;
+padding-bottom: 6px;
+padding-left: 12px;
+padding-right: 12px;
+padding-top: 6px;
+position: relative;
+text-decoration: none;
+text-shadow: rgba(0, 0, 0, 0.14902) 0px -1px 0px;
+text-transform: none;
+vertical-align: middle;
+white-space: nowrap;
+width: 112.71875px;
+word-wrap: break-word;
+}
+.btn-primary:hover{
+color: #fff;
+background-color: #569e3d;
+background-image: linear-gradient(#79d858, #569e3d);
+border-color: #4a993e;
 }

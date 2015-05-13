@@ -95,6 +95,10 @@ h1{
   background-image: url(../images/front.png);
   background-size: 100%;
   background-repeat: no-repeat;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
 }
 
 .back{
@@ -102,6 +106,10 @@ h1{
   background-size: 100%;
   background-repeat: no-repeat;
   padding: 20px;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
 }
 
 

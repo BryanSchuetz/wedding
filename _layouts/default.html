@@ -23,7 +23,7 @@
       <div class="footer">
       {% if page.title == "Save The Date" %}
         <script>
-        if ('transformStyle', 'preserve-3d') {
+        if (Modernizr.csstransformspreserve3d) {
           // CSS 3D Transforms supported
         } else {
           // not supported

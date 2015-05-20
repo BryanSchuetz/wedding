@@ -17,7 +17,7 @@ body{
   visibility: visible;
 }
 .wf-active body{
-  font-family: georgia, serif;
+  font-family: "ff-meta-serif-web-pro";
   display: block;
   visibility: visible;
 }
@@ -38,9 +38,11 @@ bode{
   margin-bottom: 0px;
   height: 50px;
 }
-h1, h2, h3{
-  font-family: georgia !important;
-  // font-family: "bistro-script-web" !important;
+h1,{
+  font-family: "bistro-script-web" !important;
+}
+h2,h3,h4{
+  font-family: "ff-meta-serif-web-pro" !important;
 }
 
 h1{
@@ -97,13 +99,13 @@ h1{
 }
 
 .front{
-  background-image: url(../images/back.png);
+  background-image: url(../images/front.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
 .back{
-  background-image: url(../images/back.png);
+  background-image: url(../images/back.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
 }

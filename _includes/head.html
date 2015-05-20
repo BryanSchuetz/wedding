@@ -1,4 +1,14 @@
 <head>
+{% if page.title == "Save The Date" %}
+  <!--[if lte IE11]>
+    <meta http-equiv="refresh" content="0" url="/ie/ />
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    window.top.location = 'http://browsehappy.com/';
+    /* ]]> */
+    </script>
+  <![endif]-->
+{% endif %}
   <link href="http://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -26,5 +36,6 @@
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
   <!-- livereloading locally -->
- 
+  {% include analytics.html %}
+  
 </head>

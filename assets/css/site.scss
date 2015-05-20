@@ -6,6 +6,7 @@
 @import "variables";
 .sidebar-toggle{
   opacity: 0.8;
+  background-color: #F6F6F6;
 }
 body{
   font-family: georgia, serif;
@@ -38,7 +39,8 @@ bode{
   height: 50px;
 }
 h1, h2, h3{
-  font-family: "bistro-script-web" !important;
+  font-family: georgia !important;
+  // font-family: "bistro-script-web" !important;
 }
 
 h1{
@@ -46,7 +48,10 @@ h1{
   text-align: center;
   text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
 }
-
+.footer{
+  min-height: 100px;
+  margin-top: 1rem;
+}
 // Flip
 
 .cardWrapper{
@@ -54,15 +59,15 @@ h1{
   height:210px;
   @include responsive(small-screens){
     width: 389px;
-    height: 310px;
+    height: 289px;
   }
   @include responsive(medium-screens){
-    width: 459px;
-    height: 479px;
+    width: 559px;
+    height: 415px;
   }
     @include responsive(wide-screens){
     width: 689px;
-    height: 600px;
+    height: 515px;
   }
   margin-right: auto;
   margin-left: auto;
@@ -75,15 +80,15 @@ h1{
   margin-left: auto;
   @include responsive(small-screens){
     width: 389px;
-    height: 310px;
+    height: 289px;
   }
   @include responsive(medium-screens){
-    width: 459px;
-    height: 479px;
+    width: 559px;
+    height: 415px;
   }
     @include responsive(wide-screens){
     width: 689px;
-    height: 600px;
+    height: 515px;
   }
   position:absolute;
   width:289px;
@@ -92,24 +97,15 @@ h1{
 }
 
 .front{
-  background-image: url(../images/front.png);
+  background-image: url(../images/back.png);
   background-size: 100%;
   background-repeat: no-repeat;
-  backface-visibility: hidden;
-  -webkit-backface-visibility: hidden;
-  -moz-backface-visibility: hidden;
-  -ms-backface-visibility: hidden;
 }
 
 .back{
   background-image: url(../images/back.png);
   background-size: 100%;
   background-repeat: no-repeat;
-  padding: 20px;
-  backface-visibility: hidden;
-  -webkit-backface-visibility: hidden;
-  -moz-backface-visibility: hidden;
-  -ms-backface-visibility: hidden;
 }
 
 
@@ -245,4 +241,7 @@ color: #fff;
 background-color: #569e3d;
 background-image: linear-gradient(#79d858, #569e3d);
 border-color: #4a993e;
+}
+#fieldEmail, #fieldName{
+  width: 100%;
 }

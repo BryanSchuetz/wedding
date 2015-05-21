@@ -7,6 +7,7 @@
 .sidebar-toggle{
   opacity: 0.8;
   background-color: #F6F6F6;
+  padding-top: 8px;
 }
 body{
   font-family: georgia, serif;
@@ -37,12 +38,28 @@ bode{
   position: relative;
   margin-bottom: 0px;
   height: 50px;
+  top: .5rem;
+  @include responsive(small-screens){
+    height: 60px;
+  }
 }
 h1,{
   font-family: "bistro-script-web" !important;
 }
-h2,h3,h4{
+.masthead-title{
+  font-size: 2rem;
+  @include responsive(small-screens){
+    font-size: 3rem;
+  }
+}
+.page-title,h2,h3,h4{
   font-family: "ff-meta-serif-web-pro" !important;
+  text-shadow: none;
+  color: #515151;
+}
+.page-title{
+  text-align: left;
+  font-size: 2rem;
 }
 
 h1{
@@ -54,6 +71,7 @@ h1{
   min-height: 100px;
   margin-top: 1rem;
 }
+
 // Flip
 
 .cardWrapper{

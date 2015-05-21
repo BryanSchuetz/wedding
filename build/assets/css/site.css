@@ -1115,7 +1115,8 @@ a.pagination-item:hover {
 
 .sidebar-toggle {
   opacity: 0.8;
-  background-color: #F6F6F6; }
+  background-color: #F6F6F6;
+  padding-top: 8px; }
 
 body {
   font-family: georgia, serif;
@@ -1140,13 +1141,29 @@ html a:hover {
   display: inline;
   position: relative;
   margin-bottom: 0px;
-  height: 50px; }
+  height: 50px;
+  top: .5rem; }
+  @media screen and (min-width: 30em) {
+    .church {
+      height: 60px; } }
 
 h1 {
   font-family: "bistro-script-web" !important; }
 
-h2, h3, h4 {
-  font-family: "ff-meta-serif-web-pro" !important; }
+.masthead-title {
+  font-size: 2rem; }
+  @media screen and (min-width: 30em) {
+    .masthead-title {
+      font-size: 3rem; } }
+
+.page-title, h2, h3, h4 {
+  font-family: "ff-meta-serif-web-pro" !important;
+  text-shadow: none;
+  color: #515151; }
+
+.page-title {
+  text-align: left;
+  font-size: 2rem; }
 
 h1 {
   font-size: 3rem;

@@ -73,6 +73,19 @@ h1{
   min-height: 100px;
   margin-top: 1rem;
 }
+.emoji-icon{
+  width: 20px;
+  height: 20px;
+  margin-right: .5rem;
+  display: block;
+  float: left;
+  position: relative;
+  top: .1rem;
+  @include responsive(medium-screens){
+    width: 25px;
+    height: 25px;
+  }
+}
 
 // Flip
 

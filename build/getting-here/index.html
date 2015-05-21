@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   <title>
-    Save The Date
+    Getting Here
   </title>
 
   <!-- CSS -->
@@ -120,7 +120,7 @@ Modernizr.addTest('csstransformspreserve3d', function () {
     
       
         
-          <a class="sidebar-nav-item" href="/getting-here/">Getting Here</a>
+          <a class="sidebar-nav-item active" href="/getting-here/">Getting Here</a>
         
       
     
@@ -160,55 +160,26 @@ Modernizr.addTest('csstransformspreserve3d', function () {
       </div>
 
       <div class="container content">
-        <div class="cardWrapper">
-  <a href="#form-header"><div class="card">
-      <div class="cardFace front"></div>
-      <div class="cardFace back">
-      </div>
-    </div></a>
-</div>
-<div class="form-wrapper">
-  <h2 id="form-header" class="form-header">Stay in the Loop</h2>
-  <p>A formal wedding invitation and rsvp will follow—in the meantime, providing your name and email to us (below) will help us stay in touch with you as our wedding plans develop and more information becomes available.</p>
-  <form action="http://dai.createsend.com/t/r/s/ikydcr/" method="post" id="subForm">
-    <p>
-      <input class="input-large" id="fieldName" name="cm-name" type="text" placeholder="NAME" />
-    </p>
-    <p>
-      <input class="input-large" id="fieldEmail" name="cm-ikydcr-ikydcr" type="email" required placeholder="EMAIL" />
-    </p>
-    <p>
-      <button class="btn btn-primary" type="submit">Send</button>
-    </p>
-  </form>
+        <div class="page">
+  <h1 class="page-title">Getting Here</h1>
+  <p>Traveling to Washington, DC? You’ve got options! </p>
+
+<h2>Plane</h2>
+
+<p>There are three local airports: Reagan National Airport (DCA), Dulles International Airport (IAD), and Baltimore International Airport (BWI). DCA is 10 minutes from DC, Dulles is 40 minutes from DC, and BWI is 60 minutes from DC. Traffic is a variable - plan on traffic.</p>
+
+<h2>Train</h2>
+
+<p>Train travel to Washington is very easy. Amtrak arrives in downtown DC at Union Station. When you arrive at Union Station, you can take a cab to your hotel or you can jump on the subway (Metro). Getting around DC is safe and easy using the Metro. </p>
+
+<h2>Automobile</h2>
+
+<p>DC is a very drivable city. Most hotels will provide valet parking for your car. Ample street parking is available and meters are abundant. To avoid circling the block, just park in a pay lot.</p>
+
 </div>
 
-<script>
-  TweenLite.set(".cardWrapper", {perspective:800});
-  TweenLite.set(".card", {transformStyle:"preserve-3d"});
-  TweenLite.set(".back", {rotationY:-180});
-  TweenLite.set([".back", ".front"], {backfaceVisibility:"hidden"});
-
-  $(".cardWrapper").hover(
-    function() {
-      TweenLite.to($(this).find(".card"), 1.2, {rotationY:180, ease:Back.easeOut});
-    },
-    function() {
-      TweenLite.to($(this).find(".card"), 1.2, {rotationY:0, ease:Back.easeOut});  
-    }
-  );
-</script>
       </div>
       <div class="footer">
-      
-        <script>
-        if (Modernizr.csstransformspreserve3d) {
-          // CSS 3D Transforms supported
-        } else {
-          // not supported
-          window.location.href = "/ie/";
-        }
-        </script>
       
       </div>
     </div>

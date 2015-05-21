@@ -1132,7 +1132,9 @@ body {
   visibility: visible; }
 
 img {
-  margin-bottom: none; }
+  margin-bottom: none;
+  border: 0px !important;
+  border-style: none; }
 
 html a:hover {
   text-decoration: none; }

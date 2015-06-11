@@ -3,7 +3,7 @@ layout: page
 title: Reception
 ---
 
-As with so many things in Washington, DC, history plays an important role. We chose to embrace DC history throughout the wedding as you'll see.
+As with so many things in Washington, DC, history plays an important role.
  
 Our reception will be held at the historic [Metropolitan Club](https://www.metroclub.com). Founded in 1863 at the height of the Civil War by six Treasury Department officials, the club is one of the oldest private institutions in Washington. 
 

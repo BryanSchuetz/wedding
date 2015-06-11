@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Getting Here
+title: Directions
 ---
+Traveling to Washington, DC? You’ve got options! 
 
 <iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/dai.m87795np/attribution,zoompan.html?access_token=pk.eyJ1IjoiZGFpIiwiYSI6IkZsZ0hqcDAifQ.xT3JeLA3cXqgN3HBwoxgAA'></iframe>
-
-Traveling to Washington, DC? You’ve got options! 
 
 <h2><img class="emoji-icon" src="/assets/images/89.png" alt="plane">Plane</h2>
 <p>There are three local airports: Reagan National Airport (DCA), Dulles International Airport (IAD), and Baltimore International Airport (BWI). DCA is 10 minutes from DC, Dulles is 40 minutes from DC, and BWI is 60 minutes from DC. Traffic is a variable - plan on traffic.</p>

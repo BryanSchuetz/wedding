@@ -2,7 +2,7 @@
 layout: page
 title: Directions
 ---
-Traveling to Washington, DC? You’ve got options! 
+Traveling to Washington, DC? You’ve got options! Below you'll find options for trains, planes, and automobiles. Also have a look at the map where we've pinned all the primary locations you should be aware of. Hotels, church, reception, parking, metro, etc., it's all on the map.
 
 <iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/dai.m87795np/attribution,zoompan.html?access_token=pk.eyJ1IjoiZGFpIiwiYSI6IkZsZ0hqcDAifQ.xT3JeLA3cXqgN3HBwoxgAA'></iframe>
 

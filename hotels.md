@@ -3,9 +3,9 @@ layout: page
 title: Hotels
 ---
 
-We've been able to reserve room blocks at three great D.C. hotels for Sept. 4th and 5th. Accomodations at each hotel offer King size beds and are available for single or double occupancy.
+We've been able to reserve room blocks at three great D.C. hotels for Friday, Sept. 4th and Saturday, Sept. 5th. Accommodations and rates listed below are for rooms with King size beds, available for single or double occupancy.
 
-## Embassy Row: $135.00 a night
+## Embassy Row: $135 a night
 ![Embassy Row Hotel](/assets/images/embassyrow.jpg)
 <p><strong>2015 Massachusetts Avenue, N.W.<br>
 Washington, DC 20036</strong></p>

@@ -214,8 +214,11 @@ a.sidebar-nav-item:focus {
   position: absolute;
   top:  .8rem;
   left: 1rem;
+  padding-top: .25rem;
+  padding-bottom: .25rem;
+  padding-left: .35rem;
+  padding-right: .35rem;
   display: block;
-  padding: .25rem .75rem;
   color: #505050;
   background-color: #fff;
   border-radius: .25rem;
@@ -224,13 +227,13 @@ a.sidebar-nav-item:focus {
 
 .sidebar-toggle:before {
   display: inline-block;
-  width: 1rem;
-  height: .75rem;
-  content: "";
-  background-image: -webkit-linear-gradient(to bottom, #555, #555 20%, #fff 20%, #fff 40%, #555 40%, #555 60%, #fff 60%, #fff 80%, #555 80%, #555 100%);
-  background-image:    -moz-linear-gradient(to bottom, #555, #555 20%, #fff 20%, #fff 40%, #555 40%, #555 60%, #fff 60%, #fff 80%, #555 80%, #555 100%);
-  background-image:     -ms-linear-gradient(to bottom, #555, #555 20%, #fff 20%, #fff 40%, #555 40%, #555 60%, #fff 60%, #fff 80%, #555 80%, #555 100%);
-  background-image:         linear-gradient(to bottom, #555, #555 20%, #fff 20%, #fff 40%, #555 40%, #555 60%, #fff 60%, #fff 80%, #555 80%, #555 100%);
+  content: "MORE";
+  background-image: url(/assets/images/burger.png);
+  background-repeat: no-repeat;
+  background-size: 30%;
+  background-position: 0px -.5px;
+  padding-left: 1rem;
+  font-family: helvetica, arial, sans-serif;
 }
 
 .sidebar-toggle:active,
@@ -243,10 +246,10 @@ a.sidebar-nav-item:focus {
 .sidebar-toggle:active:before,
 #sidebar-checkbox:focus ~ .sidebar-toggle:before,
 #sidebar-checkbox:checked ~ .sidebar-toggle:before {
-  background-image: -webkit-linear-gradient(to bottom, #fff, #fff 20%, #555 20%, #555 40%, #fff 40%, #fff 60%, #555 60%, #555 80%, #fff 80%, #fff 100%);
-  background-image:    -moz-linear-gradient(to bottom, #fff, #fff 20%, #555 20%, #555 40%, #fff 40%, #fff 60%, #555 60%, #555 80%, #fff 80%, #fff 100%);
-  background-image:     -ms-linear-gradient(to bottom, #fff, #fff 20%, #555 20%, #555 40%, #fff 40%, #fff 60%, #555 60%, #555 80%, #fff 80%, #fff 100%);
-  background-image:         linear-gradient(to bottom, #fff, #fff 20%, #555 20%, #555 40%, #fff 40%, #fff 60%, #555 60%, #555 80%, #fff 80%, #fff 100%);
+  // background-image: -webkit-linear-gradient(to bottom, #fff, #fff 20%, #555 20%, #555 40%, #fff 40%, #fff 60%, #555 60%, #555 80%, #fff 80%, #fff 100%);
+  // background-image:    -moz-linear-gradient(to bottom, #fff, #fff 20%, #555 20%, #555 40%, #fff 40%, #fff 60%, #555 60%, #555 80%, #fff 80%, #fff 100%);
+  // background-image:     -ms-linear-gradient(to bottom, #fff, #fff 20%, #555 20%, #555 40%, #fff 40%, #fff 60%, #555 60%, #555 80%, #fff 80%, #fff 100%);
+  // background-image:         linear-gradient(to bottom, #fff, #fff 20%, #555 20%, #555 40%, #fff 40%, #fff 60%, #555 60%, #555 80%, #fff 80%, #fff 100%);
 }
 
 @media (min-width: 30.1em) {
@@ -276,13 +279,13 @@ a.sidebar-nav-item:focus {
 
 .wrap,
 .sidebar,
-.sidebar-toggle {
+.sidebar-toggle{
   -webkit-backface-visibility: hidden;
       -ms-backface-visibility: hidden;
           backface-visibility: hidden;
 }
 .wrap,
-.sidebar-toggle {
+.sidebar-toggle{
   -webkit-transition: -webkit-transform .3s ease-in-out;
           transition: transform .3s ease-in-out;
 }
@@ -427,7 +430,7 @@ a.pagination-item:hover {
 
 .layout-reverse #sidebar-checkbox:checked ~ .sidebar,
 .layout-reverse #sidebar-checkbox:checked ~ .wrap,
-.layout-reverse #sidebar-checkbox:checked ~ .sidebar-toggle {
+.layout-reverse #sidebar-checkbox:checked ~ .sidebar-toggle{
   -webkit-transform: translateX(-14rem);
       -ms-transform: translateX(-14rem);
           transform: translateX(-14rem);

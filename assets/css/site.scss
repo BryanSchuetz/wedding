@@ -4,10 +4,17 @@
 @import "syntax";
 @import "lanyon";
 @import "variables";
+
+.sidebar-toggle:before{
+  font-family: helvetica, arial, sans-serif;
+  color: #fff;
+  font-size: .7rem;
+  font-weight: bold;
+}
+
 .sidebar-toggle{
   opacity: 0.8;
-  background-color: #F6F6F6;
-  padding-top: 8px;
+  background-color: #FF63C2;
 }
 body{
   font-family: georgia, serif;

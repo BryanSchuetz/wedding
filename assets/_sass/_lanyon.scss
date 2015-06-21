@@ -217,7 +217,7 @@ a.sidebar-nav-item:focus {
   padding-top: .25rem;
   padding-bottom: .25rem;
   padding-left: .35rem;
-  padding-right: .35rem;
+  padding-right: .45rem;
   display: block;
   color: #505050;
   background-color: #fff;
@@ -228,7 +228,7 @@ a.sidebar-nav-item:focus {
 .sidebar-toggle:before {
   display: inline-block;
   content: "MORE";
-  background-image: url(/assets/images/burger.png);
+  background-image: url(/assets/images/point.png);
   background-repeat: no-repeat;
   background-size: 30%;
   background-position: 0px -.5px;

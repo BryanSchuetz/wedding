@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hotels
+order: 5
 ---
 
 We've been able to reserve room blocks at three great D.C. hotels for Friday, Sept. 4th and Saturday, Sept. 5th. Accommodations and rates listed below are for rooms with King size beds, available for single or double occupancy.
@@ -28,4 +29,4 @@ Listed on the National Register of Historic Places and showcasing a great locati
 <p><strong>2500 Calvert Street, N.W.<br>
 Washington, DC 20008</strong></p>
 
-Included in the National Trust for Historic Preservation’s ‘Historic Hotels of America,’ [The Omni Shoreham](http://www.omnihotels.com/hotels/washington-dc-shoreham) is nestled just inside the Cleveland Park neighborhood, a bridge away from the Adams Morgan and Kalorama neighborhoods, and overlooking scenic Rock Creek Park. A block away from great restaurants along Connecticut Avenue, it is also an easy walk to the National Zoo. Grab a cab to the ceremony or cut through the park. Built in 1930, the hotel has hosted every Presidential inaugural ball from FDR to Obama. The hotel recently completed a three-year, $80 million restoration which was one of the largest undertaken in the country. The closest Metro station is Woodley Park on the Red Line. The cut-off date for booking a room at the negotiated rate is August 18. **Reservations can be made online or by phone at 1-800-THE-OMNI.**
+Included in the National Trust for Historic Preservation’s ‘Historic Hotels of America,’ [The Omni Shoreham](http://www.omnihotels.com/hotels/washington-dc-shoreham) is nestled just inside the Cleveland Park neighborhood, a bridge away from the Adams Morgan and Kalorama neighborhoods, and overlooking scenic Rock Creek Park. A block away from great restaurants along Connecticut Avenue, it is also an easy walk to the National Zoo. Grab a cab to the ceremony or cut through the park. Built in 1930, the hotel has hosted every Presidential inaugural ball from FDR to Obama. The hotel recently completed a three-year, $80 million restoration which was one of the largest undertaken in the country. The closest Metro station is Woodley Park on the Red Line. The cut-off date for booking a room at the negotiated rate is August 18. **Reservations can be made by phone at 1-800-THE-OMNI.**

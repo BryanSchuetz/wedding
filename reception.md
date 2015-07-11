@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Reception
+order: 3
 ---
 
 As with so many things in Washington, DC, history plays an important role.

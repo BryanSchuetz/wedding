@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Our Registry
+order: 1
 ---
 
 We're registered on [Zola](https://www.zola.com/registry/georgianna-and-bryan), a super cool online aggregator for wedding registries. You can buy items directly from Zola, or from a range of other stores that make up the full registry. You can also join in on a group gift, or contribute to our honeymoon fund. Everything gets managed and tracked through Zola to avoid duplicates and make things easier.

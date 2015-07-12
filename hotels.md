@@ -4,16 +4,7 @@ title: Hotels
 order: 5
 ---
 
-We've been able to reserve room blocks at three great D.C. hotels for Friday, Sept. 4th and Saturday, Sept. 5th. Accommodations and rates listed below are for rooms with King size beds, available for single or double occupancy.
-
-## Embassy Row: $135 a night
-![Embassy Row Hotel](/assets/images/embassyrow.jpg)
-<p><strong>2015 Massachusetts Avenue, N.W.<br>
-Washington, DC 20036</strong></p>
-
-Located just one block from Dupont Circle, the [Embassy Row Hotel](http://www.embassyrowhotel.com) offers easy access to the Metro—and the bustling Dupont Circle neighborhood, with some of the city's best dining and shopping. A recent 15 million dollar renovation at the hotel makes it a great choice for your stay. Amenities include a rooftop pool. The closest Metro station is at Dupont Circle on the Red Line. The cut-off date for booking a room at the negotiated rate is August 4. **Reservations can be [made online](https://gc.synxis.com/rez.aspx?Hotel=60584&Chain=5156&arrive=9/4/2015&depart=9/6/2015&adult=1&child=0&group=201594PAUL) or by phone at 1-855-893-1011.**
-
-<hr>
+We've been able to reserve room blocks at two great D.C. hotels for Friday, Sept. 4th and Saturday, Sept. 5th. Accommodations and rates listed below are for rooms with King size beds, available for single or double occupancy.
 
 ## The Mayflower: $135 a night
 ![The Mayflower Hotel](/assets/images/mayflower.jpg)

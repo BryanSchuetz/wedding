@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hotels
-order: 5
+order: 6
 ---
 
 We've been able to reserve room blocks at two great D.C. hotels for Friday, Sept. 4th and Saturday, Sept. 5th. Accommodations and rates listed below are for rooms with King size beds, available for single or double occupancy.

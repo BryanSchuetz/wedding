@@ -10,4 +10,4 @@ We're registered on [Zola](https://www.zola.com/registry/georgianna-and-bryan), 
 
 ## Brick and Mortar
 
-We also have a "brick and mortar" registry if shopping online is not your thing. You can find it at [Nordstrom](http://shop.nordstrom.com). They have [store locations](http://shop.nordstrom.com/c/stores) nationwide. Anything you want to bring would be amazing, but as long as you bring yourself we'll be happy. We're so excited about starting our lives together and can't wait to celebrate with you. 
+We also have "brick and mortar" registries if shopping online is not your thing. You can find them at [Nordstrom](https://secure.nordstrom.com/WishListSearchResults.aspx), ask customer service about the "wish list" in store—and at [Crate & Barrel](http://www.crateandbarrel.com/gift-registry/georgianna-paul-and-bryan-schuetz/r5386513). Anything you want to bring would be amazing, but as long as you bring yourself we'll be happy. We're so excited about starting our lives together and can't wait to celebrate with you. 

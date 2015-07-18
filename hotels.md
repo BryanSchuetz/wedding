@@ -6,6 +6,16 @@ order: 6
 
 We've been able to reserve room blocks at two great D.C. hotels for Friday, Sept. 4th and Saturday, Sept. 5th. Accommodations and rates listed below are for rooms with King size beds, available for single or double occupancy.
 
+### Babysitting Services
+
+The hotels maintain a list of baby sitting companies should you need childcare while attending the wedding festivities. According to the concierge, you contact the company, set-up the rate, and the babysitter will arrive and stay in the room with your child(ren). We haven’t used any of these services so can’t speak from personal experience, however the hotels indicate they haven’t had any complaints.
+
+* Wanda Prue Baby Sitting Services  202-494-1344
+* White House Nannies 301-652-8088
+* Child Care Consultants 301-251-5842
+
+<hr>
+
 ## The Mayflower: $135 a night
 ![The Mayflower Hotel](/assets/images/mayflower.jpg)
 <p><strong>1127 Connecticut Avenue, N.W.<br>

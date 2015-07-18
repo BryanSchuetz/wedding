@@ -11,7 +11,7 @@ We've been able to reserve room blocks at two great D.C. hotels for Friday, Sept
 The hotels maintain a list of baby sitting companies should you need childcare while attending the wedding festivities. According to the concierge, you contact the company, set-up the rate, and the babysitter will arrive and stay in the room with your child(ren). We haven’t used any of these services so can’t speak from personal experience, however the hotels indicate they haven’t had any complaints.
 
 * Wanda Prue Baby Sitting Services  202-494-1344
-* White House Nannies 301-652-8088
+* [White House Nannies](http://www.whitehousenannies.com) 301-652-8088
 * Child Care Consultants 301-251-5842
 
 <hr>

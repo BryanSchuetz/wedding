@@ -10,6 +10,8 @@ Our reception will be held at the historic [Metropolitan Club](https://www.metro
 
 ![Metroplitan Club](/assets/images/metro.jpg)
 
-Located at its present site for more than 100 years, the mansion is listed on the National Register of Historic Places and is a District of Columbia historic landmark.
+Located at its present site (1700 H St NW, Washington, DC 20036) for more than 100 years, the mansion is listed on the National Register of Historic Places and is a District of Columbia historic landmark. 
  
 The Metropolitan Club's proximity to the White House and other icons of the nation's capital has made it a destination for many local, national and international leaders, including nearly every U.S. President since Abraham Lincoln.
+
+**There will be free valet parking available at the Metropolitan Club for the reception.**

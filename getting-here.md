@@ -5,6 +5,10 @@ order: 5
 ---
 Traveling to Washington, DC? You’ve got options! Below you'll find options for trains, planes, and automobiles. Also have a look at the map where we've pinned all the primary locations you should be aware of. Hotels, church, reception, parking, metro, etc., it's all on the map.
 
+The **Ceremony** will be at Christ Church, Georgetown at **31st and O Streets, NW Washington, D.C.** Ceremony parking **may** be available at a public (cash) lot at the corner of O Street and Wisconsin Avenue—otherwise, allow plenty of time to find on-street parking.
+
+The **Reception** will be at the Metropolitan Club at **1700 H St. NW, Washington, D.C. 20036.** Free valet parking will be available at the club for the reception.
+
 <iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/dai.m87795np/attribution,zoompan.html?access_token=pk.eyJ1IjoiZGFpIiwiYSI6IkZsZ0hqcDAifQ.xT3JeLA3cXqgN3HBwoxgAA'></iframe>
 
 <h2><img class="emoji-icon" src="/assets/images/89.png" alt="plane">Plane</h2>
